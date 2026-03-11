@@ -59,7 +59,7 @@ OptiGestion/
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/votre-utilisateur/OptiGestion.git
+git clone https://github.com/Anonyme-spy/OptiGestion.git
 cd OptiGestion
 
 # Installer les dépendances avec uv
